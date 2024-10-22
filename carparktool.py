@@ -9,7 +9,7 @@ from time import sleep
 
 BASE_URL: str = "https://maroon-echidna-796942.hostingersite.com/api"
 
-class CarParkTool:
+class 2rum0:
 
     def __init__(self, access_key) -> None:
         self.auth_token = None
